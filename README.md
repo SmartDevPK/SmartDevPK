@@ -42,7 +42,7 @@ I am a passionate Backend Developer, Software Instructor, and Mentor with experi
 - AWS
 
 ### 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/emmanuelmichael-dev/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Michael-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelmichael-dev/)
 - Email: emmanuelmichaelpk3@gmail.com
 
 ---
