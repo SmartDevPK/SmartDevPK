@@ -43,7 +43,8 @@ I am a passionate Backend Developer, Software Instructor, and Mentor with experi
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Michael-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelmichael-dev/)
-- Email: emmanuelmichaelpk3@gmail.com
+
+[![Email](https://img.shields.io/badge/Email-emmanuelmichaelpk3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelmichaelpk3@gmail.com)
 
 ---
 *"Continuous learning and building solutions that create impact."*
